@@ -1,4 +1,4 @@
-print("Hi Akim")
+print("Hi Akim\n")
 
 print("Shonya help me!")
 
